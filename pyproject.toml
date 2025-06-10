@@ -84,6 +84,8 @@ exclude = [
   "*.env",
   "*.log",
   "*.zip",
+  "/*dev*py",
+  "/*local*py",
   "*name*suggest*.txt",
   "inject_*.py",
   "file*map.json",
