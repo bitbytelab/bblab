@@ -23,32 +23,22 @@ following modern Python packaging practices.
 
 ---
 
-## 🛠️ Usage:
-This module is not intended to be used directly. It serves only for namespace
-registration and branding display when executed as a standalone script.
----
-
-## 📜 Contents:
-- Project metadata (title, version, license, URL)
-- Terminal banner function
-- Metadata extraction from importlib
-- Execution banner for CLI usage
----
-
 ## 📎 Notes:
 To extend the namespace with actual logic or utilities, create a properly
 structured submodule or namespace package under `bblab/`.
 
 ---
 
-## 📣 Example:
-Run directly via:  
+## 🛠️ Usage:
+
+This module is not intended to be used directly. It serves only for namespace
+registration and branding display when executed as a standalone script.
+
 ```python
 python -m bblab
 ```
-
-Expected Output:
-        A pretty terminal banner displaying project info.
+Expected Output:  
+A pretty terminal banner displaying package info.
 
 ---
 

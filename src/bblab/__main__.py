@@ -59,7 +59,7 @@ except metadata.PackageNotFoundError:
 
 __project__ = "BitByteLab"
 __title____ = ""
-__caption__ = "Brewing Magic in Code & Logic."
+__caption__ = "Brewing Magic in Code & Logic"
 __license__ = __meta__.get("License", "MIT")
 __url______ = "https://github.com/bitbytelab/bblab"
 __copyright = "2025 BitByteLab"
