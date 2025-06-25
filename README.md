@@ -12,7 +12,7 @@
 
 </div></p>
 
-## 📌 Description:
+## 🧾 Description:
 bblab - A namespace for BitByteLab libraries, tools, scripts, and utilities. 
 It does not contain any functional logic beyond branding and identification.
 
