@@ -1,4 +1,4 @@
-"""Namespace usage test."""
+"""Namespace usage example."""
 
 from bblab import __main__
 
