@@ -52,28 +52,11 @@ Expected Output:
 
 ---
 
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-
-- Open an issue for ideas, bugs, or suggestions.
-- Pull requests are welcome!
-
----
-
 ## 🔗 Links
 
-  - 📦 [PyPI](https://pypi.org/project/bblab)  
-  🛠️ [Issues](https://github.com/bitbytelab/bblab/issues)  
-  ⭐ [Star on GitHub](https://github.com/bitbytelab/bblab)  
+  - 📦 [PyPI](https://pypi.org/project/bblab)
+  - ⭐ [Star on GitHub](https://github.com/bitbytelab/bblab)  
 
----
-
-### 🔗 Project Links
 
 #### 👤 Author — Mahmudul Hasan Rasel
 - 🧳 Portfolio: [rsmahmud.github.io](https://rsmahmud.github.io/)
@@ -83,7 +66,9 @@ Licensed under the [MIT License](LICENSE).
 #### 🏢 BitByteLab — Organization
 - 🏠 Homepage: [bitbytelab.github.io](https://bitbytelab.github.io/)
 - 🐙 GitHub: [github.com/bitbytelab](https://github.com/bitbytelab)
-- 📦 PyPI: [pypi.org/project/bblab](https://pypi.org/project/bblab/)
 
+---
 
+## 📄 License
 
+Licensed under the [MIT License](LICENSE).

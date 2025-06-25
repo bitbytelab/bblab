@@ -6,12 +6,12 @@ build-backend = "hatchling.build"
 name = "bblab"
 dynamic = ["version"]
 description = """
-`bblab` - A namespace for BitByteLab libraries, tools, scripts, and utilities.
-It does not contain any functional logic beyond branding and identification.
+bblab - A namespace for BitByteLab libraries, tools, scripts, and utilities.
+It does not contain any functional logic beyond branding and identification;
+created only to reserve the `bblab` name as a namespace package.
 
-This is a bootstrap file created to reserve the `bblab` name as a namespace
-package. It allows future submodules like `bblab.cli`, `bblab.utils`, `bblab.ai`,
-and others to coexist under a unified namespace in the BitByteLab ecosystem,
+It allows future submodules like bblab.cli, bblab.utils, bblab.ai and others
+to coexist under a unified namespace in the BitByteLab ecosystem,
 following modern Python packaging practices.
 """
 readme = "README.md"
@@ -36,7 +36,7 @@ maintainers = [
 
 [project.urls]
 Homepage = "https://bitbytelab.github.io/"
-GitHub = "https://github.com/bitbytelab"
+BitByteLab = "https://github.com/bitbytelab"
 PyPI = "https://pypi.org/project/bblab/"
 
 Author-GitHub = "https://github.com/rsmahmud"
