@@ -18,7 +18,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 requires-python = ">=3.10"
-keywords = ["bitbytelab", "bblab", "namespace", "package"]
+keywords = ["bitbytelab", "bblab", "namespace package"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
