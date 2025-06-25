@@ -2,7 +2,7 @@
 <p><div align="center">
   <img src="https://bitbytelab.github.io/assets/bitbytelab.png" alt="BitByteLab Logo" height="100">
 
-## Brewing Magic in Code & Logic.
+## Brewing Magic in Code & Logic
 
 [![Release](https://img.shields.io/github/v/tag/bitbytelab/bblab)](https://github.com/bitbytelab/bblab/tag)
 [![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20macOS%20%7C%20linux-blue)]()
