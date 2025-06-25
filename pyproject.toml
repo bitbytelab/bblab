@@ -55,7 +55,6 @@ only-include = ["src/bblab"]
 
 [tool.hatch.build.targets.sdist]
 only-include = [
-    "assets",
     "docs",
     "examples",
     "src",
