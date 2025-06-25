@@ -1,6 +1,6 @@
 
 <p><div align="center">
-  <img src="https://bitbytelab.github.io/assets/logos/bitbytelab.png" alt="BitByteLab Logo" height="100">
+  <img src="https://bitbytelab.github.io/assets/bitbytelab.png" alt="BitByteLab Logo" height="100">
 
 ## Brewing Magic in Code & Logic.
 
